@@ -1,5 +1,5 @@
-# DragonXv3
-dragon x v3 eaglecrraft hacked clients
+# Dragon X Client V3.0
+Dragon X V3 Eaglercraft Hacked Clients
 TO INSTALL:
 VIEW RAW
 COMMAND/CONTROL S
